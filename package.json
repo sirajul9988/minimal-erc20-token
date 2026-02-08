@@ -1,0 +1,15 @@
+{
+  "name": "minimal-erc20-token",
+  "version": "1.0.0",
+  "description": "Standard ERC-20 token implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "keywords": [
+    "erc20",
+    "token",
+    "ethereum",
+    "blockchain",
+    "solidity"
+  ]
+}
